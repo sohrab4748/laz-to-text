@@ -1,0 +1,20 @@
+## Visual Studio build output
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.cache
+
+## NuGet packages (restored on build)
+packages/
+*.nupkg
+
+## Build artifacts and installers
+*.exe
+*.msi
+*.pdb
+
+## Signing keys and secrets - do NOT commit these
+*.pfx
+*.snk
