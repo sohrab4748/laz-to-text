@@ -6,6 +6,10 @@ header and lets you choose which columns to export.
 
 Free tool by AgriMetSoft.
 
+## Screenshot
+
+![LAZ to TEXT showing the LAS header and the point table](screenshot.jpg)
+
 ## What it does
 
 - Reads compressed `.laz` and uncompressed `.las` LiDAR files (using laszip4j).
@@ -22,10 +26,10 @@ Free tool by AgriMetSoft.
 ## How to use
 
 1. Open the app.
-2. Click **Select File** and choose a `.laz` or `.las` file.
+2. Click **Open LAS File** and choose a `.laz` or `.las` file.
 3. The header and the points appear in the window.
-4. Click **Save All** to export everything, or **Save Option** to choose the
-   columns first.
+4. Click **Save All** to export everything, or **Save with Options** to choose
+   the columns first.
 
 ## Build from source
 
